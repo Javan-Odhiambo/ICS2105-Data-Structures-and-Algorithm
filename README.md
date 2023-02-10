@@ -4,7 +4,7 @@
 
 ## Content
 
-1. [Lab One]()
+1. [Lab One](https://github.com/Javan-Odhiambo/ICS2105-Data-Structures-and-Algorithm/tree/master/Lab-one)
 
 ## Author
 **Javan Odhiambo**
